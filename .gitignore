@@ -1,0 +1,13 @@
+# Secrets
+.env
+token.env
+
+# Databases
+*.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
